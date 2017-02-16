@@ -1,3 +1,7 @@
+forked from jay3dec/PythonFlaskRemoteApp : https://github.com/jay3dec/PythonFlaskRemoteApp
+
+Working on replacing MongoDB with HBase
+
 # PythonFlaskRemoteApp
 Code for blog post: http://codehandbook.org/creating-a-web-app-using-angularjs-python-mongodb/
 

@@ -30,6 +30,12 @@ def addMachine():
 def showMachineList():
     return render_template('list.html')
 
+
+@application.route('/index.html')
+def showIndexPage():
+    return render_template('index.html')
+
+
 @application.route('/getMachine',methods=['POST'])
 def getMachine():
     try:
